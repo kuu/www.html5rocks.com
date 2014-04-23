@@ -4487,3 +4487,7 @@ msgstr "モダンブラウザにおけるストレージの現状に関し調査
 #: tutorials.yaml:tutorials/webrtc/datachannels/
 msgid "WebRTC data channels for high performance data exchange"
 msgstr "高パフォーマンスなデータ交換のためのWebRTC data channels"
+
+#: tutorials.yaml:tutorials/speed/unnecessary-paints/
+msgid "Avoiding Unnecessary Paints"
+msgstr "不必要な描画の回避"
